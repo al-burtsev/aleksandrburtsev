@@ -19,4 +19,4 @@
 
 
 ### 💻 Примеры моих работ:
-- 👨‍💻<a href="https://al-burtsev.github.io/projects/" target="_blank">al-burtsev.github.io/projects</a>
+<a href="https://al-burtsev.github.io/projects/" target="_blank">al-burtsev.github.io/projects</a>
